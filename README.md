@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed7elmy99" alt="ahmed7elmy99" /></a> </p>
 
+- 🌱 I’m currently learning **Mobile Development & Software Development**
+
+- 💬 Ask me about **Flutter & Dart**
+
+- 📫 How to reach me **abozahraahmed94@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/a7med7elmy66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a7med7elmy66" height="30" width="40" /></a>
