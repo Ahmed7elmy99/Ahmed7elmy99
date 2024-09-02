@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed7elmy99" alt="ahmed7elmy99" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile Development & Software Development**
+-  **Mobile Development & Software Development**
 
 - 💬 Ask me about **Flutter & Dart**
 
