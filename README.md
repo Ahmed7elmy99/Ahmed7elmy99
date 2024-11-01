@@ -10,6 +10,23 @@
 - 💬 Ask me about **Flutter & Dart**
 
 - 📫 How to reach me **abozahraahmed94@gmail.com**
+  
+-  (Technical Skills)
+ 
+• Flutter & Dart                         • OOP, Clean Code
+• Responsive UI                          • RESTful API (Dio, HTTP, Postman)
+• Localization                           • State Management (Bloc, Cubit, GetX, Provider)
+• Pagination                             • Version Control (Git, GitHub)
+• Payment Integration                    • Local Databases (Shared Preferences, Hive, SQLite)
+• Clean Architecture (MVC, MVVM)         • Maps Integration
+• Repository Pattern                     • Notifications
+• PDF & Document Handling                • SOLID Principles
+• Firebase                        
+
+- (Soft Skills)
+
+• Communication • Teamwork • Time management
+• Attention to details • Adaptability • Problem Solving
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
